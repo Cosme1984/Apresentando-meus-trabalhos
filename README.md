@@ -14,7 +14,8 @@
 
 
 ## Javascript
-![Javascript-736400_960_720](https://user-images.githubusercontent.com/85316738/148166161-72d1439d-da2f-473e-8f5b-3f528f6256e5.png)
+![javascript-2336958-1982839](https://user-images.githubusercontent.com/85316738/148166436-2bb4c0c2-a14a-415e-881f-1d74378140e5.png)
+
 
 ## Git Hub
 ![git-225996](https://user-images.githubusercontent.com/85316738/148166193-5ebb5c50-1578-4a90-9e47-1b1250b277b2.png)
